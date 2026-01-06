@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-30T16:39:37 IST" name="Default suite" finished-at="2025-12-30T16:39:45 IST" duration-ms="7650">
+  <suite started-at="2026-01-06T09:56:01 IST" name="Default suite" finished-at="2026-01-06T09:56:08 IST" duration-ms="7225">
     <groups>
     </groups>
-    <test started-at="2025-12-30T16:39:37 IST" name="Default test" finished-at="2025-12-30T16:39:45 IST" duration-ms="7650">
+    <test started-at="2026-01-06T09:56:01 IST" name="Default test" finished-at="2026-01-06T09:56:08 IST" duration-ms="7225">
       <class name="com.PractiseTest.TestCases.VerifyLogin">
-        <test-method signature="CheckValidUser()[pri:0, instance:com.PractiseTest.TestCases.VerifyLogin@5b04476e]" started-at="2025-12-30T16:39:37 IST" name="CheckValidUser" finished-at="2025-12-30T16:39:45 IST" duration-ms="7474" status="PASS">
+        <test-method signature="CheckValidUser()[pri:0, instance:com.PractiseTest.TestCases.VerifyLogin@2b43529a]" started-at="2026-01-06T09:56:01 IST" name="CheckValidUser" finished-at="2026-01-06T09:56:08 IST" duration-ms="7079" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckValidUser -->

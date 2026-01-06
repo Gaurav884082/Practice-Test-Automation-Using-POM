@@ -4,7 +4,7 @@
   <artifactId>PageObjectModelInSeleniumWebDriver_01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-		<!--https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+  <!--https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
@@ -29,18 +29,14 @@
 			<artifactId>maven-surefire-plugin</artifactId>
 			<version>3.5.4</version>
 		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		<dependency>
-			<groupId>commons-io</groupId>
-			<artifactId>commons-io</artifactId>
-			<version>2.21.0</version>
+		    <groupId>commons-io</groupId>
+		    <artifactId>commons-io</artifactId>
+		    <version>2.21.0</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/net.sf.opencsv/opencsv -->
-		<dependency>
-			<groupId>net.sf.opencsv</groupId>
-			<artifactId>opencsv</artifactId>
-			<version>2.3</version>
-		</dependency>
+		
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
@@ -56,5 +52,5 @@
 			<artifactId>log4j-slf4j-impl</artifactId>
 			<version>2.20.0</version>
 		</dependency>
-	</dependencies>
+  </dependencies>
 </project>
